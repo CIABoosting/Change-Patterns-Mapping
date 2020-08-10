@@ -19,22 +19,28 @@ If you try to do the same experiment of this paper, you should follow the follow
 **STEP 6:** Run Impactanalysis code to boost the result.
 
 <br/>
+
 # STEP 1
 pass
 
 <br/>
+
 # STEP 2
 See `./coreclass_generation_project` for details
 
 <br/>
+
 # STEP 3
 See `./CouplingRel_generation_project` for details
 
 <br/>
+
 # STEP 4
 See `./Corpus_generation_project` for details
 
+
 <br/>
+
 # STEP 5
 The output of these tools should organize as follow: 
 
@@ -43,5 +49,6 @@ The output of these tools should organize as follow:
 This file include orginal sorted(according to their probability of being impacted) predicted impacted classes.
 
 <br/>
+
 # STEP 6
 
