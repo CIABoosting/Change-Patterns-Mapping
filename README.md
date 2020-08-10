@@ -4,6 +4,8 @@ Code for TSE articles: **'Change-Patterns Mapping: A Boosting Way for Change Imp
 **Author:** Yuan Huang, Jinyu Jiang, Xiapu Luo, Xiangping Chen, Member, IEEE, Zibin Zheng, Senior
 Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE,
 
+
+# Overview 
 If you try to do the same experiment of this paper, you should follow the following steps:
 
 **STEP 1：** Prepare data ( dataset and testdata )
@@ -21,7 +23,12 @@ If you try to do the same experiment of this paper, you should follow the follow
 <br/>
 
 # STEP 1
-pass
+Sample dataset can be find at `./dataset`, these files are used to store change-patterns which may later be used to boost the results.
+
+Sample testdata can be find at `./testdata`, these files are used to do experiments.
+
+**Notice: You'd better use the same file structure to store data if you want to do this experiment with ease.**
+
 
 <br/>
 
@@ -51,4 +58,4 @@ This file include orginal sorted(according to their probability of being impacte
 <br/>
 
 # STEP 6
-
+See `./ImpactAnalysis_project` for details 
