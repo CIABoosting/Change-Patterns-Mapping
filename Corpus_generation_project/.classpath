@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/edu.mit.jwi_2.4.0.jar"/>
+	<classpathentry kind="lib" path="jars/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="jars/changedistiller-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/diffutils-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/svnkit-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jjy/Desktop/ImpactAnalysis/code/Corpus_generation_project/lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
