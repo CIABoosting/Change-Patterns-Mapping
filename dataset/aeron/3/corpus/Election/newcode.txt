@@ -1,0 +1,1 @@
+private final boolean startup long time state change ms thi ctx epoch clock record log append term candidate id position follower await result fail transition ballot else if cluster member nominate leader canvass canvas int work count deadline unit nanosecond milli statu timeout ns election gt quorum nomination random next interval return ready void

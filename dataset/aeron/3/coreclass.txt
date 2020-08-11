@@ -1,0 +1,4 @@
+Election:0.45
+ClusterMember:0.42333333333333334
+SequencerAgent:0.3233333333333333
+ElectionTest:0.21333333333333335

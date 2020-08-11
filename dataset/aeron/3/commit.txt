@@ -1,0 +1,8 @@
+commitID:255636101
+author:Martin Thompson
+message: [Java] Timeout canvass phase of election if quorum has been reached.
+
+modify:aeron-cluster/src/main/java/io/aeron/cluster/ClusterMember.java,aeron-cluster/src/main/java/io/aeron/cluster/ClusterMember.java
+modify:aeron-cluster/src/main/java/io/aeron/cluster/Election.java,aeron-cluster/src/main/java/io/aeron/cluster/Election.java
+modify:aeron-cluster/src/main/java/io/aeron/cluster/SequencerAgent.java,aeron-cluster/src/main/java/io/aeron/cluster/SequencerAgent.java
+modify:aeron-cluster/src/test/java/io/aeron/cluster/ElectionTest.java,aeron-cluster/src/test/java/io/aeron/cluster/ElectionTest.java

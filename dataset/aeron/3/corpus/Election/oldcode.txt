@@ -1,0 +1,1 @@
+ctx record log append term candidate id position epoch clock time state follower await result fail transition ballot else if cluster member suitable thi nominate leader canvass canvas return ready private void final
