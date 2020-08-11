@@ -1,0 +1,12 @@
+---------------------------------------------
+修订版本号: 2638
+提交者: fredt
+日期: Sun Sep 03 06:21:56 CST 2006
+注释信息: bug fixes
+
+受影响的文件、目录:
+M /base-one/trunk/src/org/hsqldb/resources/sql-error-messages.properties
+M /base-one/trunk/src/org/hsqldb/Expression.java
+M /base-one/trunk/doc/changelist_1_8_0.txt
+M /base-one/trunk/src/org/hsqldb/TableWorks.java
+M /base-one/trunk/src/org/hsqldb/Session.java

@@ -51,7 +51,7 @@ See `./Corpus_generation_project` for details
 # STEP 5
 The output of these tools should organize as follow: 
 
-![avatar](/image/original_result.png)
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/original_result.png)
 
 This file include orginal sorted(according to their probability of being impacted) predicted impacted classes.
 

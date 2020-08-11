@@ -1,0 +1,7 @@
+commitID:-2024478823
+author:Stefan Birkner
+message: Remove duplicate code.
+
+modify:src/main/java/org/junit/runners/model/FrameworkField.java,src/main/java/org/junit/runners/model/FrameworkField.java
+modify:src/main/java/org/junit/runners/model/FrameworkMember.java,src/main/java/org/junit/runners/model/FrameworkMember.java
+modify:src/main/java/org/junit/runners/model/FrameworkMethod.java,src/main/java/org/junit/runners/model/FrameworkMethod.java

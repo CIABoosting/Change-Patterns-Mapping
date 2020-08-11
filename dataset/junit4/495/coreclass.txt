@@ -1,0 +1,3 @@
+FrameworkMethod:0.4733333333333332
+FrameworkMember:0.4
+FrameworkField:0.39

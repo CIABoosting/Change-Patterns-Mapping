@@ -1,0 +1,1 @@
+value curr null get aggregate session object string table column

@@ -1,0 +1,1 @@
+protect int get modifier return method
