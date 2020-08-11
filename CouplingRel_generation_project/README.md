@@ -5,14 +5,15 @@ This is a project for generating the Coupling Relashionship of a commit.
 # Preparation
 You need to download projects with commits and organize the file structure as follows:
 
-[picture here]
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/file_structure.png)
 
 <br/>
 The file name means the commit number of the project.
 
 In each commit file, you should organize the file structure as follows:
 
-[picture here]
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/commit_structure.png)
+
 
 <br/>
 The folder named 'new' stores the new version of the modified files.
@@ -21,9 +22,8 @@ The folder named 'old' stores the old version of the modified files.
 
 The file named 'commit.txt' stores the commit information of this commit.
 
-An example is shown in the picture below, the example can be found on this github repository.
-[Example here]
 
+**\*Of course, the file structure is not a big thing. You can organize it as you wish, if you're willing to modify the code for yourself.**
 
 # Usage
 The path for the main file (entry of the project) is 
