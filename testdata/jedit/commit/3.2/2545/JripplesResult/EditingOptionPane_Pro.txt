@@ -1,0 +1,5 @@
+Mode:0.15941389
+jEdit:0.13755965
+FoldHandler:0.11679083
+AbstractOptionPane:0.06096033
+OptionsDialog:0.028276581

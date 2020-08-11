@@ -1,0 +1,15 @@
+Class0: Buffer defined a variable of the type:  TokenMarker $changed$ 
+
+Definition: private TokenMarker ;
+
+
+Class8: JEditTextArea defined a variable of the type:  Buffer $changed$ 
+
+Definition: private Buffer ;
+
+
+Class11: SearchBar defined a variable of the type:  RolloverButton $changed$ 
+
+Definition: private RolloverButton ;
+
+

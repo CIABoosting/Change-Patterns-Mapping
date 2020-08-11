@@ -1,0 +1,7 @@
+ContextAddDialog:0.23355027
+OptionsDialog:0.11672071
+GUIUtilities:0.08183378
+jEdit:0.047758404
+MiscUtilities:0.037322413
+EditAction:0.029342342
+AbstractOptionPane:0.027244292

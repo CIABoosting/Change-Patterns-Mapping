@@ -1,0 +1,15 @@
+HyperSearchResults:0.34010372
+SearchAndReplace:0.08480225
+Buffer:0.050199464
+jEdit:0.04217663
+HyperSearchResult:0.035850313
+Selection:0.031673882
+WorkRequest:0.029470831
+SearchMatcher:0.026400385
+WorkThread:0.01983819
+View:0.019270342
+VFSManager:0.01586501
+SearchFileSet:0.015736155
+GUIUtilities:0.012382233
+Log:0.011388794
+CharIndexedSegment:0.008734613

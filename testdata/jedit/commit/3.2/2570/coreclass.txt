@@ -1,0 +1,9 @@
+SearchAndReplace:0.5533333333333333
+HyperSearchResults:0.3
+HyperSearchRequest:0.2633333333333333
+ResultVisitor:0.24940873015873027
+ResultCellRenderer:0.15066666666666667
+MouseHandler:0.14
+RemoveTreeNodeAction:0.03333333333333333
+BufferLoadedVisitor:0.012222222222222223
+BufferClosedVisitor:0.012222222222222223

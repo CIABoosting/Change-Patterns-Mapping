@@ -1,0 +1,2 @@
+Class4: HyperSearchRequest $changed$ , method  $changed$ HyperSearchRequest, with parameter results of the type HyperSearchResults $changed$ 
+

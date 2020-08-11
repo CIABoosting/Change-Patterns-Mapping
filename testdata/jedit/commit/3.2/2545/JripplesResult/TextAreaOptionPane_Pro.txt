@@ -1,0 +1,4 @@
+jEdit:0.08647662
+AbstractOptionPane:0.03263053
+OptionsDialog:0.015267061
+FontSelector:0.002600271

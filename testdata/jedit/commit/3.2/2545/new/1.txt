@@ -1,0 +1,2 @@
+ClassEnhancedButton extends RolloverButton
+

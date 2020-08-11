@@ -1,0 +1,12 @@
+SearchAndReplace:0.3061408
+SearchDialog:0.19855046
+View:0.185334
+Buffer:0.10864522
+JEditTextArea:0.087162554
+HistoryTextField:0.0855495
+StatusBar:0.0674851
+jEdit:0.06630943
+EditPane:0.060022667
+Selection:0.032911588
+Log:0.018558519
+CurrentBufferSet:0.013142411

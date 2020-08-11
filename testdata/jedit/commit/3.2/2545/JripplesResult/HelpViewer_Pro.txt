@@ -1,0 +1,14 @@
+jEdit:0.06297777
+FileCellRenderer:0.047732543
+GUIUtilities:0.04650101
+MiscUtilities:0.03149652
+EditPlugin:0.028533615
+JARClassLoader:0.024536215
+Log:0.0150630055
+XmlParser:0.014901007
+EditBus:0.014799278
+EBMessage:0.010006186
+EBComponent:0.0054227775
+HandlerBase:0.0047941376
+PropertiesChanged:0.0044193864
+XmlException:0.002756792

@@ -1,0 +1,7 @@
+ToolBarEditDialog:0.31833982
+GUIUtilities:0.13387126
+OptionsDialog:0.12341241
+jEdit:0.054223485
+EditAction:0.045061905
+MiscUtilities:0.035743725
+AbstractOptionPane:0.031907674

@@ -1,0 +1,16 @@
+jEdit:0.19961466
+JARClassLoader:0.19499744
+QuickNotepadPlugin:0.1389553
+GUIUtilities:0.12733912
+EBPlugin:0.10394083
+OptionsDialog:0.10302284
+PluginList:0.088659085
+MiscUtilities:0.08460987
+LatestVersionPlugin:0.06620294
+ActionSet:0.06340108
+PluginManager:0.060944866
+EditBus:0.058131
+HelpViewer:0.05281153
+PluginResURLConnection:0.023529783
+Roster:0.02291345
+OptionPane:0.0202342

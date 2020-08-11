@@ -1,0 +1,15 @@
+HyperSearchResults
+SearchAndReplace
+Buffer
+jEdit
+HyperSearchResult
+Selection
+WorkRequest
+SearchMatcher
+WorkThread
+View
+VFSManager
+SearchFileSet
+GUIUtilities
+Log
+CharIndexedSegment

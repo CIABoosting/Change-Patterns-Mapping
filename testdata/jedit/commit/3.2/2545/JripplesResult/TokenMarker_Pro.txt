@@ -1,0 +1,11 @@
+ParserRuleSet:0.09060311
+XModeHandler:0.083781265
+Buffer:0.07492905
+ParserRuleFactory:0.054516103
+OffsetManager:0.05425644
+ParserRule:0.041364018
+Token:0.033556532
+jEdit:0.023628093
+Mode:0.011006471
+KeywordMap:0.008232693
+Log:0.0064692893

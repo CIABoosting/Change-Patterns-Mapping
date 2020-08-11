@@ -1,0 +1,13 @@
+HyperSearchRequest:0.23099923
+HyperSearchResult:0.05645255
+View:0.04757504
+SearchAndReplace:0.035476185
+Buffer:0.034135476
+jEdit:0.032867618
+JEditTextArea:0.019095143
+BufferUpdate:0.016342422
+VFSManager:0.013978268
+EditBus:0.011568624
+Selection:0.010136731
+EBComponent:0.007116356
+EBMessage:0.005851805

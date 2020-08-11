@@ -1,0 +1,16 @@
+---------------------------------------------
+修订版本号: 2570
+提交者: spestov
+日期: Tue Oct 22 03:37:15 CST 2002
+注释信息: new splash from krisk, multiple hypersearch patch from peter cox
+
+受影响的文件、目录:
+M /jEdit/trunk/org/gjt/sp/jedit/jedit_gui.props
+M /jEdit/trunk/org/gjt/sp/jedit/search/SearchAndReplace.java
+M /jEdit/trunk/doc/jedit.png
+M /jEdit/trunk/doc/TODO.txt
+M /jEdit/trunk/org/gjt/sp/jedit/search/HyperSearchResults.java
+M /jEdit/trunk/org/gjt/sp/jedit/icons/splash.png
+M /jEdit/trunk/doc/CHANGES.txt
+M /jEdit/trunk/modes/pl-sql.xml
+M /jEdit/trunk/org/gjt/sp/jedit/search/HyperSearchRequest.java

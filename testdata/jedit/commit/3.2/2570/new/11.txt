@@ -1,0 +1,44 @@
+Class5: HyperSearchResults $changed$ , method handleMessage $changed$ , use the attribute defined inside classvisitor 
+
+ the code:       ResultVisitor visitor=null; 
+
+Class5: HyperSearchResults $changed$ , method handleMessage $changed$ , use the attribute defined inside classvisitor 
+
+ the code:         visitor=new BufferLoadedVisitor(); 
+
+Class5: HyperSearchResults $changed$ , method handleMessage $changed$ , use the attribute defined inside classvisitor 
+
+ the code:         visitor=new BufferClosedVisitor(); 
+
+Class5: HyperSearchResults $changed$ , method handleMessage $changed$ , use the attribute defined inside classvisitor 
+
+ the code:             if (buffer.getPath().equals(result.path))             visitor.visit(buffer,result); 
+
+-----canceled-------- 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , use the attribute defined inside classresults 
+
+ the code:   final HyperSearchResults results=(HyperSearchResults)view.getDockableWindowManager().getDockable(HyperSearchResults.NAME); 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , use the attribute defined inside classresults 
+
+ the code:   results.searchStarted(); 
+
+-----canceled-------- 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , use the attribute defined inside classresults 
+
+ the code:       results.searchFailed(); 
+
+-----canceled-------- 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , use the attribute defined inside classresults 
+
+ the code:         results.searchFailed(); 
+
+-----canceled-------- 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , use the attribute defined inside classresults 
+
+ the code:     VFSManager.runInWorkThread(new HyperSearchRequest(view,matcher,results,s)); 
+

@@ -1,0 +1,32 @@
+---------------------------------------------
+修订版本号: 2545
+提交者: spestov
+日期: Mon Sep 09 05:03:11 CST 2002
+注释信息: split next/prev word commands into old and -std forms; this replaces the stdNextPrevWord property
+
+受影响的文件、目录:
+A /jEdit/trunk/modes/pike.xml
+M /jEdit/trunk/org/gjt/sp/jedit/jedit_keys.props
+M /jEdit/trunk/doc/TODO.txt
+M /jEdit/trunk/org/gjt/sp/jedit/browser/VFSBrowser.java
+M /jEdit/trunk/jars/MacOS/MacOS.props
+M /jEdit/trunk/org/gjt/sp/jedit/actions.xml
+M /jEdit/trunk/org/gjt/sp/jedit/options/ToolBarOptionPane.java
+M /jEdit/trunk/org/gjt/sp/jedit/options/GutterOptionPane.java
+M /jEdit/trunk/org/gjt/sp/jedit/options/TextAreaOptionPane.java
+M /jEdit/trunk/doc/CHANGES.txt
+M /jEdit/trunk/org/gjt/sp/jedit/gui/HelpViewer.java
+M /jEdit/trunk/org/gjt/sp/jedit/syntax/TokenMarker.java
+M /jEdit/trunk/jars/MacOS/MacOSHandler.java
+M /jEdit/trunk/org/gjt/sp/jedit/options/EditingOptionPane.java
+M /jEdit/trunk/org/gjt/sp/jedit/search/SearchBar.java
+M /jEdit/trunk/org/gjt/sp/jedit/help/HelpIndex.java
+M /jEdit/trunk/org/gjt/sp/jedit/Buffer.java
+M /jEdit/trunk/org/gjt/sp/jedit/jedit_gui.props
+M /jEdit/trunk/org/gjt/sp/jedit/EditPlugin.java
+M /jEdit/trunk/org/gjt/sp/jedit/options/ContextOptionPane.java
+M /jEdit/trunk/org/gjt/sp/jedit/gui/EnhancedButton.java
+M /jEdit/trunk/modes/catalog
+M /jEdit/trunk/org/gjt/sp/jedit/jedit.props
+M /jEdit/trunk/org/gjt/sp/jedit/textarea/JEditTextArea.java
+M /jEdit/trunk/org/gjt/sp/jedit/gui/RolloverButton.java

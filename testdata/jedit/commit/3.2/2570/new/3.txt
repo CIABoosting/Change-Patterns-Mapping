@@ -1,0 +1,4 @@
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , include: type convert of  HyperSearchResults $changed$ 
+
+ the code:   final HyperSearchResults results=(HyperSearchResults)view.getDockableWindowManager().getDockable(HyperSearchResults.NAME); 
+

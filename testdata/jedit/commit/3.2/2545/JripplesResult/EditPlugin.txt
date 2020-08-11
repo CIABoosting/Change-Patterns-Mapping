@@ -1,0 +1,16 @@
+jEdit
+JARClassLoader
+QuickNotepadPlugin
+GUIUtilities
+EBPlugin
+OptionsDialog
+PluginList
+MiscUtilities
+LatestVersionPlugin
+ActionSet
+PluginManager
+EditBus
+HelpViewer
+PluginResURLConnection
+Roster
+OptionPane

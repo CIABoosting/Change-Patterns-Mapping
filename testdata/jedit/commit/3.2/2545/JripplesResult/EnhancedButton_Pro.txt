@@ -1,0 +1,4 @@
+EditAction:0.10018451
+GUIUtilities:0.07278574
+StatusBar:0.04346501
+View:0.016004112

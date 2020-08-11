@@ -1,0 +1,4 @@
+Class4: HyperSearchRequest $changed$ , method HyperSearchRequest $changed$ , use the input parameter results 
+
+ the code:   this.results=results; 
+

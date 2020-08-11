@@ -1,0 +1,7 @@
+ToolBarEditDialog
+GUIUtilities
+OptionsDialog
+jEdit
+EditAction
+MiscUtilities
+AbstractOptionPane

@@ -1,0 +1,12 @@
+SearchAndReplace
+SearchDialog
+View
+Buffer
+JEditTextArea
+HistoryTextField
+StatusBar
+jEdit
+EditPane
+Selection
+Log
+CurrentBufferSet

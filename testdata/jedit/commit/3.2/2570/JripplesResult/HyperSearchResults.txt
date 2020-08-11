@@ -1,0 +1,13 @@
+HyperSearchRequest
+HyperSearchResult
+View
+SearchAndReplace
+Buffer
+jEdit
+JEditTextArea
+BufferUpdate
+VFSManager
+EditBus
+Selection
+EBComponent
+EBMessage

@@ -1,0 +1,16 @@
+Class5: HyperSearchResults $changed$ , method handleMessage $changed$ , include parameter:  visitor (of the type ResultVisitor $new$ ) use the method 0: visit[Buffer buffer, HyperSearchResult result] $new$  
+
+ the code:             if (buffer.getPath().equals(result.path))             visitor.visit(buffer,result); 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , include parameter:  results (of the type HyperSearchResults $changed$ ) use the method 3: searchStarted[] $changed$  
+
+ the code:   results.searchStarted(); 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , include parameter:  results (of the type HyperSearchResults $changed$ ) use the method 0: searchFailed[] $new$  
+
+ the code:       results.searchFailed(); 
+
+Class8: SearchAndReplace $changed$ , method hyperSearch $changed$ , include parameter:  results (of the type HyperSearchResults $changed$ ) use the method 0: searchFailed[] $new$  
+
+ the code:         results.searchFailed(); 
+

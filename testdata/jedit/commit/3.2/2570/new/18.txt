@@ -1,0 +1,5 @@
+Class4: HyperSearchRequest defined a variable of the type:  HyperSearchResults $changed$ 
+
+Definition: private HyperSearchResults ;
+
+
