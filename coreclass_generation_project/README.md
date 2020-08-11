@@ -35,9 +35,9 @@ You only need to modify the project path as follows:
 After you've done, you can find two files under each commits.
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/coreclass_result.png)
 
-coreclass.txt: store the probability of being coreclass of a java file.
+**coreclass.txt:** store the probability of being coreclass of a java file.
 
-CoreClassName.txt: store the result after sorting files from large to small according to the probability of 
+**CoreClassName.txt:** store the result after sorting files from large to small according to the probability of 
 becoming a key class.
 
 The example can be found on this github repository under the directory called `dataset`.

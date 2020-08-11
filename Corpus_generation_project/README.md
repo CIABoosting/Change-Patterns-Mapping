@@ -33,11 +33,14 @@ The path for the main file (entry of the project) is
 > src/sysu/tools/WordSpliter.java
 
 You only need to modify the project path as follows:
-[picture here]
+
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/Corpus_change_path.png)
 
 After you've done, you can find a file called 'corpus' each commits.
-[picture here]
+
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/corpus_result.png)
+
+
 In this file, you can find 'comment.txt', 'newcode.txt', 'oldcode.txt', which we use to compare the similarity between two coreclasses.
 
-An example is shown in the picture below, the example can be found on this github repository.
-[Example here]
+The example can be found on this github repository under the directory called `dataset`.

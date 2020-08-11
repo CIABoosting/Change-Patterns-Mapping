@@ -30,12 +30,14 @@ The path for the main file (entry of the project) is
 > src/sysu/sei/reverse/Comparator/VersionComparator.java
 
 You only need to modify the project path as follows:
-[picture here]
+
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/Coupling_change_path.png)
+
 
 After you've done, you can find a file called 'CouplingResult.txt' under each commit.
-[picture here]
+![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/Coupling_result.png)
+
 
 In this file, you can find the relashionship between two classes of this commit.
 
-An example is shown in the picture below, the example can be found on this github repository.
-[Example here]
+The example can be found on this github repository under the directory called `dataset`.
