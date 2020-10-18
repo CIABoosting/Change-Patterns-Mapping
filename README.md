@@ -27,7 +27,7 @@ Sample dataset can be found at `./dataset`, these files are used to store change
 
 Sample testdata can be found at `./testdata`, these files are used to do experiments.
 
-**Notice: You'd better use the same file structure to store data if you want to do this experiment with ease.**
+**Notice: You'd better use the same file structure to store data if you want to do this experiment with ease. Otherwise, you should change the code in order to adapt to your file structure.**
 
 
 <br/>
