@@ -8,7 +8,7 @@ Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE
 # Overview 
 If you try to reproduce the same experiment results in this paper, you should follow the following steps:
 
-**STEP 1:** Prepare data ( dataset and testdata )
+**STEP 1:** Prepare data (dataset and testdata)
 
 **STEP 2:** Generate **coreclass** of each commit
 
