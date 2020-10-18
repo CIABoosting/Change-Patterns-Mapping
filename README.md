@@ -6,7 +6,7 @@ Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE
 
 
 # Overview 
-If you try to reproduce the same experiment of this paper, you should follow the following steps:
+If you try to reproduce the same experiment results in this paper, you should follow the following steps:
 
 **STEP 1：** Prepare data ( dataset and testdata )
 
