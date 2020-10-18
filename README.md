@@ -2,7 +2,7 @@
 Code for the TSE article: **'Change-Patterns Mapping: A Boosting Way for Change Impact Analysis'**
 
 **Author:** Yuan Huang, Jinyu Jiang, Xiapu Luo, Xiangping Chen, Member, IEEE, Zibin Zheng, Senior
-Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE,
+Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE
 
 
 # Overview 
