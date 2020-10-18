@@ -23,9 +23,9 @@ If you try to reproduce the same experiment results in this paper, you should fo
 <br/>
 
 # STEP 1
-Sample dataset can be find at `./dataset`, these files are used to store change-patterns which may later be used to boost the results.
+Sample dataset can be found at `./dataset`, these files are used to store change-patterns which may later be used to boost the results.
 
-Sample testdata can be find at `./testdata`, these files are used to do experiments.
+Sample testdata can be found at `./testdata`, these files are used to do experiments.
 
 **Notice: You'd better use the same file structure to store data if you want to do this experiment with ease.**
 
