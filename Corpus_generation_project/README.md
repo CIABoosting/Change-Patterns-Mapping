@@ -2,7 +2,7 @@
 This is a project for generating the corpus of a commit.
 
 # Notice
-This procedure must be done after the coreclass generation.
+This project must be executed after the coreclass generation.
 
 # Preparation
 You need to download projects with commits and organize the file structure as follows:

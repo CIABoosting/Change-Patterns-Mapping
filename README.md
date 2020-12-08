@@ -1,14 +1,14 @@
 # Change-Patterns-Mapping
-Code for TSE articles: **'Change-Patterns Mapping: A Boosting Way for Change Impact Analysis'**
+Code for the TSE article: **'Change-Patterns Mapping: A Boosting Way for Change Impact Analysis'**
 
 **Author:** Yuan Huang, Jinyu Jiang, Xiapu Luo, Xiangping Chen, Member, IEEE, Zibin Zheng, Senior
-Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE,
+Member, IEEE, Nan Jia, and Gang Huang Senior Member, IEEE
 
 
 # Overview 
-If you try to do the same experiment of this paper, you should follow the following steps:
+If you try to reproduce the same experiment results in this paper, you should follow the following steps:
 
-**STEP 1：** Prepare data ( dataset and testdata )
+**STEP 1:** Prepare data (dataset and testdata)
 
 **STEP 2:** Generate **coreclass** of each commit
 
@@ -23,11 +23,11 @@ If you try to do the same experiment of this paper, you should follow the follow
 <br/>
 
 # STEP 1
-Sample dataset can be find at `./dataset`, these files are used to store change-patterns which may later be used to boost the results.
+Sample dataset can be found at `./dataset`, these files are used to store change-patterns which may later be used to boost the results.
 
-Sample testdata can be find at `./testdata`, these files are used to do experiments.
+Sample testdata can be found at `./testdata`, these files are used to do experiments.
 
-**Notice: You'd better use the same file structure to store data if you want to do this experiment with ease.**
+**Notice: You'd better use the same file structure to store data if you want to do this experiment with ease. Otherwise, you should change the code in order to adapt to your file structure.**
 
 
 <br/>
