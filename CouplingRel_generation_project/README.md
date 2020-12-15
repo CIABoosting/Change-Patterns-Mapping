@@ -29,7 +29,7 @@ The file named 'commit.txt' stores the commit information of this commit.
 The path for the main file (entry of the project) is 
 > src/sysu/sei/reverse/Comparator/VersionComparator.java
 
-You only need to modify the project path as follows:
+You only need to modify the project path as follows(approximately line 473):
 
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/Coupling_change_path.png)
 

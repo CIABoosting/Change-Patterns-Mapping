@@ -29,7 +29,7 @@ The file named 'commit.txt' stores the commit information of this commit.
 The path for the main file (entry of the project) is 
 > src/main/java/sysu/coreclass/CoreClass.java
 
-You only need to modify the project path as follows:
+You only need to modify the project path as follows(approximately line 1034):
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/coreclass_change_path.png)
 
 After you've done, you can find two files under each commits.

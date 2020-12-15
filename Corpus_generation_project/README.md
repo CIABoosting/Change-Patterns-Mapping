@@ -36,7 +36,7 @@ You only need to modify the project path as follows(approximately line 428):
 
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/Corpus_change_path.png)
 
-After you've done, you can find a file called 'corpus' each commits.
+After you've done, you can find a file called 'corpus'  in each commits.
 
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/corpus_result.png)
 
