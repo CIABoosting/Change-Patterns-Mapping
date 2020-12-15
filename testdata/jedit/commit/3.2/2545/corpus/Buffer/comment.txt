@@ -1,1 +1,0 @@
-split next prev word command into old std form thi replace std next prev word property

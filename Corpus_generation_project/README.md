@@ -22,7 +22,7 @@ The folder named 'new' stores the new version of the modified files.
 
 The folder named 'old' stores the old version of the modified files.
 
-The file named 'commit.txt' stores the commit information of this commit.
+
 
 
 **\*Of course, the file structure is not a big thing. You can organize it as you wish, if you're willing to modify the code for yourself.**
@@ -41,6 +41,6 @@ After you've done, you can find a file called 'corpus' each commits.
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/corpus_result.png)
 
 
-In this file, you can find 'comment.txt', 'newcode.txt', 'oldcode.txt', which we use to compare the similarity between two coreclasses.
+In this file, you can find 'newcode.txt', 'oldcode.txt', which we use to compare the similarity between two coreclasses.
 
 The example can be found on this github repository under the directory called `dataset`.
