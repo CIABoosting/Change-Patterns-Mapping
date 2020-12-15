@@ -32,7 +32,7 @@ The folder named 'old' stores the old version of the modified files.
 The path for the main file (entry of the project) is 
 > src/sysu/tools/WordSpliter.java
 
-You only need to modify the project path as follows:
+You only need to modify the project path as follows(approximately line 428):
 
 ![image](https://github.com/CIABoosting/Change-Patterns-Mapping/blob/master/image/Corpus_change_path.png)
 
